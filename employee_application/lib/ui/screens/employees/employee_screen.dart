@@ -18,6 +18,7 @@ class EmployeeScreen extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Color.fromRGBO(140, 140, 140, 1),
           bottom: TabBar(
+            indicatorColor: Colors.black,
             tabs: [
               for (int i = 0; i < EmployeeCategory.values.length; i++) ...{
                 Padding(
