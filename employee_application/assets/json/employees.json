@@ -1,0 +1,137 @@
+{
+    "employees": [
+      {
+        "id": 101,
+        "firstName": "Logan",
+        "lastName": "Andrews",
+        "category": "IT"
+      },
+      {
+        "id": 11,
+        "firstName": "Jerry",
+        "lastName": "Matthew",
+        "category": "IT"
+      },
+      {
+        "id": 81,
+        "firstName": "Andrew",
+        "lastName": "Lennon",
+        "category": "IT"
+      },
+      {
+        "id": 201,
+        "firstName": "Elora",
+        "lastName": "Jackson",
+        "category": "IT"
+      },
+      {
+        "id": 28,
+        "firstName": "Timmy",
+        "lastName": "Dennis",
+        "category": "IT"
+      },
+      {
+        "id": 101,
+        "firstName": "Damien",
+        "lastName": "Truth",
+        "category": "IT"
+      },
+      {
+        "id": 141,
+        "firstName": "Reece",
+        "lastName": "Johnson",
+        "category": "IT"
+      },
+      {
+        "id": 120,
+        "firstName": "Matt",
+        "lastName": "Jacobs",
+        "category": "IT"
+      },
+      
+      {
+        "id": 129,
+        "firstName": "Megan",
+        "lastName": "Rose",
+        "category": "HR"
+      },
+      {
+        "id": 121,
+        "firstName": "Jerry",
+        "lastName": "Taylor",
+        "category": "HR"
+      },
+      {
+        "id": 81,
+        "firstName": "Guy",
+        "lastName": "Talin",
+        "category": "HR"
+      },
+      {
+        "id": 201,
+        "firstName": "Harry",
+        "lastName": "Jackson",
+        "category": "HR"
+      },
+      {
+        "id": 28,
+        "firstName": "Johnny",
+        "lastName": "Cage",
+        "category": "HR"
+      },
+      {
+        "id": 11,
+        "firstName": "Damien",
+        "lastName": "Wrong",
+        "category": "HR"
+      },
+      {
+        "id": 41,
+        "firstName": "Lacy",
+        "lastName": "McGuire",
+        "category": "HR"
+      },
+      {
+        "id": 20,
+        "firstName": "Toby",
+        "lastName": "Aleen",
+        "category": "HR"
+      },
+      {
+        "id": 1011,
+        "firstName": "Alan",
+        "lastName": "Tim",
+        "category": "HR"
+      },
+      {
+        "id": 2041,
+        "firstName": "Gary",
+        "lastName": "Good",
+        "category": "HR"
+      },
+      {
+        "id": 220,
+        "firstName": "Sam",
+        "lastName": "Alan",
+        "category": "HR"
+      },
+      {
+        "id": 11,
+        "firstName": "George",
+        "lastName": "Jackson",
+        "category": "HR"
+      },
+      {
+        "id": 2041,
+        "firstName": "Mervin",
+        "lastName": "Louis",
+        "category": "HR"
+      },
+      {
+        "id": 10,
+        "firstName": "Kano",
+        "lastName": "Wins",
+        "category": "HR"
+      }
+    ]
+  }
